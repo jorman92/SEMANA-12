@@ -133,5 +133,5 @@ Al iniciar el sistema, se mostrará un menú interactivo:
 6. **Separación de responsabilidades**: Modelos solo datos, Servicio lógica, Main interfaz
 
 ## 👨‍💻 Autor
-
-Desarrollado como parte de la Semana 12 - Programación Orientada a Objetos
+Yorman Alquimedes Hurtado Villegas
+Semana 12 - Programación Orientada a Objetos
